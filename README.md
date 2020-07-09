@@ -132,6 +132,7 @@ oc start-build nodejs-sample-pipeline
 ```
 
 ## Understanding build configurations
+* https://docs.openshift.com/container-platform/4.4/builds/build-strategies.html#builds-tutorial-pipeline_build-strategies
 * https://docs.openshift.com/container-platform/4.4/builds/understanding-buildconfigs.html
 
 ## Note: 
